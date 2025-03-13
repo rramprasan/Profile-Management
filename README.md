@@ -11,7 +11,7 @@ This is a Profile Management System built using Laravel 12 and Bootstrap 5.3.3. 
 ✔️ User Profile Image Slider on Homepage
 
 🛠️ **Tech Stack**
-- **Backend:** Laravel 12
+- **Backend:** Laravel 10
 - **Database:** MySQL
 - **Frontend:** Blade Templates with Bootstrap 5.3.3
 
